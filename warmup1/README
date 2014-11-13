@@ -1,0 +1,44 @@
+Documentation for Warmup Assignment 1
+=====================================
+
++-------+
+| BUILD |
++-------+
+
+Comments: "make" run this command to build.
+
++---------+
+| GRADING |
++---------+
+
+(A) Doubly-linked Circular List : 40 out of 40 pts
+
+(B.1) Sort (file) : 30 out of 30 pts
+(B.2) Sort (stdin) : 30 out of 30 pts
+
+Missing required section(s) in README file : NO, Readme is complete
+Cannot compile : It gets complied
+Compiler warnings : There are 0 warnings
+"make clean" : It removes all the .o and executable files
+Segmentation faults : No Segmentation faults in the program
+Separate compilation : Code is written in modules
+Malformed input : Malformed input has been handled
+Too slow : The program is not slow
+Bad commandline : It has been handled
+Bad behavior for random input : It has been handled
+Did not use My402List and My402ListElem to implement "sort" in (B) : Have used the My402List and My402ListElem to implement sort
+
++------+
+| BUGS |
++------+
+
+Comments: There are no bugs.
+
++-------+
+| OTHER |
++-------+
+No other comments.
+
+
+Comments on design decisions: 
+Comments on deviation from spec: 
